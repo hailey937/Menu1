@@ -1,0 +1,26 @@
+/* tag names affect all tags */
+ul{
+  /* gets rid of circles */
+  list-style-type: none;
+  /* Get rid of extra space */
+  margin:          0;
+  padding:         0;
+  overflow:        hidden;
+  /* Color */
+  background:      #f003fc;
+}
+
+li{
+  /* Horizontal menu */
+  float:           left;
+
+}
+
+li a{
+  display:         block;
+  color:           #000000;
+  text-align:      center;
+  padding-right:   14px;
+  padding-left:    14px;
+  text-decoration: none;
+}
