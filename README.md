@@ -1,2 +1,1 @@
-# Menu1
-First Menu Lesson
+Basic CSS Menu Setup
